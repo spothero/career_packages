@@ -1,0 +1,18 @@
+title: "Engineer 1"
+scope: "Entry"
+rank: 1
+values:
+  gdrw:
+    competencies:
+      - "Open Minded: Willing to consider new ideas"
+      - "Product Knowledge: Takes the time to know Spothero's product to help improve overall performance"
+    behaviors:
+      - "You are expected to manage your time effectively"
+      - "You are attedning meetings on time and prepared"
+  dg:
+    competencies:
+      - "Technical Capability: Ability to identify how systems and technology can improve ways of working"
+      - "Action-Oriented: Maintains a sense of urgency to complete a task and seeks information rather than waiting for it"
+    behaviors:
+      - "Learns from difficulties and moves on quickly"
+      - "You are expected to learn everything about Spothero's history, current Product offerings, and plans for growth. You are just now starting a journey to master technical disciple"

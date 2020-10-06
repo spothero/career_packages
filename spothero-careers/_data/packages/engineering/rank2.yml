@@ -1,0 +1,8 @@
+title: "Engineer 2"
+scope: "developing"
+rank: 2
+soundbite: "You are regularly solving simple challenges and are on the pathway to solving more complex ones on your own."
+engineering:
+    writing_code: "The code you write can fix simple bugs"
+education:
+    code_review:  "You are starting to review other engineer's code and still ask questions like 'why?'"

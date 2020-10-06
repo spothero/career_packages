@@ -1,0 +1,12 @@
+title: "Engineer 2"
+scope: "Developing"
+rank: 2
+values:
+  gdtrw:
+    competencies:
+      - "Open-minded: Willing to consider new ideas"
+      - "Product Knowledge: Takes the time to know SpotHero's product to help improve overall performance"
+    behaviors:
+      - "You start to develop empathy for the users of your sofware. You understand who they are and what their needs are"
+      - "You regularly read the Product Research to stay in touch with who the Drivers are"
+      - "Ability to focus on desired outcomes while determining how goals can be achieved"

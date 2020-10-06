@@ -1,0 +1,8 @@
+title: "Engineer 1"
+scope: "Entry"
+rank: 1
+soundbite: "You are still learning how the 'real world' works and are excited to code"
+engineering:
+  writing_code: "You are able to write simple readable code. You are able to follow GitFlow e.g Feature branches, regular commits and end of WIP commit"
+education:
+  code_review: "All your code is reviewed via pull-requests and you are aware of the process of reviewing other engineers' code"
